@@ -1,8 +1,3 @@
-
-![alt text](https://github.com/jjjutla/Corda-CBDC-Backend/blob/main/CBDC%20Front%20End.png)
-
-
-
 # CBDC (Central Bank Digital Currency) Token using Corda
 
 
