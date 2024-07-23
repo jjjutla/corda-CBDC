@@ -40,7 +40,7 @@ Run the following steps in given order.
 
 Note : you can check the balance of token on any node by running
 
-        `flow start GetCBDCBalance`
+`flow start GetCBDCBalance`
 
  1.Goto node : O=UK Mint, L=London, C=GB : 
   Central bank issue e-GBP (CBDC)  worth of 100 GBP
